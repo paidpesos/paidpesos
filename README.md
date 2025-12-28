@@ -18,7 +18,7 @@
 ---
 
 ### 🌐 Contact me
-[![Discord](https://img.shields.io/badge/Discord-paidusd-7289DA?logo=discord&logoColor=white)](https://discord.com/users/221272273926094848)
+[![Discord](https://img.shields.io/badge/Discord-paidusd-7289DA?logo=discord&logoColor=white)](https://discord.com/users/761212227558047755)
 [![GitHub](https://img.shields.io/badge/GitHub-paidpesos-181717?logo=github&logoColor=white)](https://github.com/paidpesos)
 
 ---
